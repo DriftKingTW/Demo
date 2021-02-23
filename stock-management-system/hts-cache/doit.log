@@ -1,8 +1,0 @@
-http://vac-smws.test/ -O "/Users/driftkingtw/websites/vac-smws" -%v
-File generated automatically on Tue, 23 Feb 2021 14:53:06, do NOT edit
-
-To update a mirror, just launch httrack without any parameters
-The existing cache will be used (and modified)
-To have other options, retype all parameters and launch HTTrack
-To continue an interrupted mirror, just launch httrack without any parameters
-
